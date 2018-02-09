@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/07/22/636047917828997678-126592311_friendship2.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: rgb(34, 178, 65);
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+}
+
+#submit {
+    background: rgb(34, 178, 130);
+}
+
+#jumbo_h2 {
+    color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #33b766;
+    border-color: #2ea463;
+}
+
+.panel-title {
+    color: rgb(34, 178, 70);
+}
